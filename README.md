@@ -1,1 +1,1 @@
-# Diagnosing_Autism_ML
+# Diagnosing Autism with Machine Learning
